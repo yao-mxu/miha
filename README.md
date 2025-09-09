@@ -8,6 +8,5 @@ mihathehami stats
 
 ## 9/9/25
 6191
-
-
+5.4 km, 3.4 miles
 136g
