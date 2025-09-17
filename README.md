@@ -39,11 +39,13 @@ mihathehami stats
 10.4 km, 4.1 miles
 137g
 
-## 9/15/25
+## 9/16/25
 11672
 10.2 km, 6.4 miles
 
-
+## 9/17/25
+11031
+9.7 km, 6.0 miles
 
 
 
