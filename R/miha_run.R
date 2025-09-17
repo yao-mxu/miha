@@ -1,8 +1,11 @@
-#install.packages("roxygen2")
-#devtools::create("miha")
-
-
+#' Convert wheel rotations to distance
+#'
+#' @param rotations Number of wheel rotations
+#' @return A vector containing distance in miles and kilometers
 #' @export
+#' @examples
+#' miha_run(10)
+
 miha_run <- function(rotations){
   inches <- rotations*3.14159*11
   miles <- inches*0.000015782828283
