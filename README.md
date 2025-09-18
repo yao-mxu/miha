@@ -1,6 +1,15 @@
 # miha
 mihathehami stats
 
+
+# How To Use
+```
+library(devtools)
+install_github("yao-mxu/miha")
+library(miha)
+miha_run(6666)
+```
+
 ## 9/8/25
 10280
 9 km, 5.6 miles
