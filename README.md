@@ -67,24 +67,24 @@ miha_run(6666)
 
 ## 9/20/25
 14164
-12.4  km, 7.7 miles
+12.4 km, 7.7 miles
 
 ## 9/21/25
 7121
-6.3  km, 3.9 miles
+6.3 km, 3.9 miles
 
 ## 9/22/25
 7185
-6.3  km, 3.9 miles
+6.3 km, 3.9 miles
 138g
 
 ## 9/23/25
 11408
-10.0  km, 6.2 miles
+10.0 km, 6.2 miles
 
 ## 9/24/25
 5489
-4.8  km, 3.0 miles
+4.8 km, 3.0 miles
 
 ## 9/25/25
 2383
@@ -98,8 +98,10 @@ miha_run(6666)
 odometer fell off ~1am
 
 ## 9/28/25
-11319 137g
+11319
+9.9 km, 6.2 miles
+137g
 
 ## 9/29/25
 3732
-
+3.3 km, 2.0 miles
