@@ -116,4 +116,8 @@ odometer fell off ~1am
 
 ## 10/2/25
 10204
+9.0 km, 5.6 miles
 
+## 10/3/25
+7132
+6.3 km, 3.9 miles
