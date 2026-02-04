@@ -187,3 +187,8 @@ odometer fell off ~1am
 ## 2/2/26
 8698
  "4.74 miles" "7.63 km"   
+
+## 2/3/26
+9
+"0.00 miles" "0.01 km" 
+
