@@ -434,3 +434,11 @@ odometer fell off ~1am
 
 ## 4/5/26
 0
+
+
+## 4/6/26 (Visit at Dr. Cheung)
+98
+"0.05 miles" "0.09 km"   
+
+
+
