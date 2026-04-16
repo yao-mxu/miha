@@ -467,4 +467,8 @@ odometer fell off ~1am
 
 ## 4/13/26
 1
-"0.00 miles" "0.00 km"   
+"0.00 miles" "0.00 km" 
+
+## 4/14/26
+2904
+ "1.58 miles" "2.55 km"   
